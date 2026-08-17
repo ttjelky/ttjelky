@@ -38,7 +38,7 @@ tight deadline.
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/vector_logo.png" width="220" alt="Vector logo"/>
+<img src="assets/Vector_logo.png" width="220" alt="Vector logo"/>
 
 ### [Vector — Academic Tournament Platform](https://github.com/ttjelky/vector)
 
@@ -46,19 +46,19 @@ A full-stack platform for organizing academic tournaments in any subject —
 individual or team format — with roles, live leaderboards, notifications and
 certificates.
 
-Built in **3 months** as a team project. Our team reached the **final** (top 4 teams of 114) of the
+Built in **3 months** as a team project. Our team reached the **final** of the
 All-Ukrainian team programming tournament with it.
 
 **My role:** team lead, full-stack development, UI/UX & brand design, business logic
 
 `React` `Vite` `Django` `DRF` `SQLite` `JWT`
 
-<img src="assets/vector_screen.png" width="100%" alt="Vector app screenshot"/>
+<img src="assets/Vector_screen.png" width="100%" alt="Vector app screenshot"/>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/scalaris_logo.png" width="220" alt="Scalaris logo"/>
+<img src="assets/Scalaris_logo.png" width="220" alt="Scalaris logo"/>
 
 ### [Scalaris — Live Activity Map](https://github.com/ttjelky/Scalaris)
 
@@ -72,7 +72,7 @@ won **3rd place** at the All-Ukrainian team programming tournament with it.
 
 `React` `Vite` `Django` `DRF` `Channels` `PostgreSQL/PostGIS` `Redis`
 
-<img src="assets/scalaris_screen.png" width="100%" alt="Scalaris app screenshot"/>
+<img src="assets/Scalaris_screen.png" width="100%" alt="Scalaris app screenshot"/>
 
 </td>
 </tr>
