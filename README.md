@@ -46,7 +46,7 @@ A full-stack platform for organizing academic tournaments in any subject —
 individual or team format — with roles, live leaderboards, notifications and
 certificates.
 
-Built in **3 months** as a team project. Our team reached the **final** of the
+Built in **3 months** as a team project. Our team reached the **final** (top 4 teams of 114) of the
 All-Ukrainian team programming tournament with it.
 
 **My role:** team lead, full-stack development, UI/UX & brand design, business logic
