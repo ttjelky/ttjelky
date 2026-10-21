@@ -20,7 +20,7 @@ national-level competitions.
 
 I'm a full-stack developer who also designs the products I build — UI, branding,
 logos — and takes ownership of the business logic behind them, not just the code.
-In both projects below I was **team lead**: I shaped the product idea, designed
+In Vector and Scalaris I was **team lead**: I shaped the product idea, designed
 the UI/UX and brand identity, and led the team through building the app on a
 tight deadline.
 
@@ -47,7 +47,10 @@ individual or team format — with roles, live leaderboards, notifications and
 certificates.
 
 Built in **3 months** as a team project. Our team reached the **final** of the
-All-Ukrainian team programming tournament with it.
+All-Ukrainian team programming tournament with it. Since the tournament I keep
+developing it on my own.
+
+**[🌐 Live demo](https://vector-production-f0f5.up.railway.app)**
 
 **My role:** team lead, full-stack development, UI/UX & brand design, business logic
 
@@ -66,13 +69,31 @@ A mobile-first platform with a live map for organizing street/backyard
 activities with friends nearby.
 
 Built in **5 days** at a summer tech camp during the tournament final. Our team
-won **3rd place** at the All-Ukrainian team programming tournament with it.
+won **3rd place** at the All-Ukrainian team programming tournament with it. Since
+the camp I keep developing it on my own.
 
 **My role:** team lead, full-stack development, UI/UX & brand design, business logic
 
 `React` `Vite` `Django` `DRF` `Channels` `PostgreSQL/PostGIS` `Redis`
 
 <img src="assets/Scalaris_screen.png" width="100%" alt="Scalaris app screenshot"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<img src="https://raw.githubusercontent.com/ttjelky/Worldlog/main/frontend/public/worldlog-logo.png" width="160" alt="WorldLog logo"/>
+
+### [WorldLog — Minecraft World Passport](https://github.com/ttjelky/Worldlog) · *in development*
+
+A Ukrainian-language app for documenting a Minecraft world: players, locations
+with coordinates and screenshot galleries, plans, and the world's history as a
+timeline. Includes a seed map powered by cubiomes compiled to WebAssembly.
+
+**My role:** product idea, lead developer (frontend & backend), UI design — with one collaborator
+
+`React` `Vite` `Material UI` `React Query` `Django` `DRF` `PostgreSQL` `WebAssembly`
 
 </td>
 </tr>
@@ -89,6 +110,12 @@ won **3rd place** at the All-Ukrainian team programming tournament with it.
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Channels%20%2F%20WebSockets-092E20?style=flat-square&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
