@@ -33,11 +33,11 @@ I also design and build websites for local businesses.
 
 <img src="assets/Clarity_logo.svg" width="72" alt="Clarity logo"/>
 
-### [Clarity — an AI council for hard decisions](https://ttjelky.github.io/portfolio/en/work/clarity/)
+### [Clarity — an AI council for hard decisions](https://github.com/team2-Vought/Clarity)
 
 Several AI participants with different personalities debate your question, a moderator turns the arguments into a decision and an AI Devil hunts for its weak spots. You get a verdict with pros, risks and a next step. A Django state machine runs the debate; 9 model providers, web search, attachments, a decision journal, UA/EN.
 
-**[🌐 Live](https://clarity-three-xi.vercel.app/)** · **My role:** idea, logo, all of the code and architecture, final design · 450+ backend tests
+**[🌐 Live](https://clarity-three-xi.vercel.app/)** · [Case study](https://ttjelky.github.io/portfolio/en/work/clarity/) · **My role:** idea, logo, all of the code and architecture, final design · 450+ backend tests
 
 `Django` `DRF` `React 19` `PostgreSQL` `Docker` `LLM APIs`
 
