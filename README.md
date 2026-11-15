@@ -2,13 +2,13 @@
 
 # Hi, I'm Oleksii 👋
 
-**Full-stack Web Developer · Team Lead · Product & UI Design**
+**Full-stack developer & designer from Kremenchuk, Ukraine 🇺🇦**
 
-I build web platforms end-to-end — from business logic and backend architecture
-to UI design and frontend implementation — and lead small teams through
-national-level competitions.
+I take products from idea to launch: concept, logo and interface, architecture, most of the code — and I lead the team that builds it.
+I also design and build websites for local businesses.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ttjelky.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olexiy-bezklynskiy-694a243b5/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ttjelky)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezklinskiyalexey@gmail.com)
 
@@ -16,67 +16,68 @@ national-level competitions.
 
 ---
 
-## About me
+## Highlights
 
-I'm a full-stack developer who also designs the products I build — UI, branding,
-logos — and takes ownership of the business logic behind them, not just the code.
-In Vector and Scalaris I was **team lead**: I shaped the product idea, designed
-the UI/UX and brand identity, and led the team through building the app on a
-tight deadline.
-
-- 🥉 **3rd place**, All-Ukrainian team programming tournament — *Scalaris*
-- 🏁 **Finalist**, All-Ukrainian team programming tournament — *Vector*
-- 🧠 Comfortable across the stack: React frontends, Django/DRF backends, real-time
-  features with WebSockets, PostgreSQL/PostGIS
-- 🎨 Design my own UI, branding and logos for the products I lead
+- 🥉 **3rd place, All-Ukrainian Team Programming Tournament 2026** (Star for Life Ukraine, Junior Academy of Sciences of Ukraine) — 121 teams at the start; with **Vector** we made the top 4 and the final, where we built **Scalaris** in 5 days
+- 🧑‍✈️ Team lead on Vector, Scalaris and WorldLog
+- 🎨 I design my own interfaces, logos and brand identity
+- 🏅 Prize winner in maths and English olympiads, year after year
 
 ---
 
-## Featured Projects
+## Featured projects
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+<img src="assets/Clarity_logo.svg" width="72" alt="Clarity logo"/>
+
+### [Clarity — an AI council for hard decisions](https://ttjelky.github.io/portfolio/en/work/clarity/)
+
+Several AI participants with different personalities debate your question, a moderator turns the arguments into a decision and an AI Devil hunts for its weak spots. You get a verdict with pros, risks and a next step. A Django state machine runs the debate; 9 model providers, web search, attachments, a decision journal, UA/EN.
+
+**[🌐 Live](https://clarity-three-xi.vercel.app/)** · **My role:** idea, logo, all of the code and architecture, final design · 450+ backend tests
+
+`Django` `DRF` `React 19` `PostgreSQL` `Docker` `LLM APIs`
+
+<img src="assets/Clarity_screen.jpg" width="100%" alt="Clarity — discussion verdict"/>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-<img src="assets/Vector_logo.png" width="220" alt="Vector logo"/>
+<img src="assets/Vector_logo.png" width="200" alt="Vector logo"/>
 
-### [Vector — Academic Tournament Platform](https://github.com/ttjelky/vector)
+### [Vector — tournament platform](https://github.com/ttjelky/vector)
 
-A full-stack platform for organizing academic tournaments in any subject —
-individual or team format — with roles, live leaderboards, notifications and
-certificates.
+Run academic tournaments in any subject — individual or team format — with rounds, jury, a live leaderboard and automatic PDF certificates.
 
-Built in **3 months** as a team project. Our team reached the **final** of the
-All-Ukrainian team programming tournament with it. Since the tournament I keep
-developing it on my own.
+🏁 Top 4 of 121 teams — reached the tournament final.
 
-**[🌐 Live demo](https://vector-production-f0f5.up.railway.app)**
+**My role:** team lead of three, ~70% of the code, all design and the logo
 
-**My role:** team lead, full-stack development, UI/UX & brand design, business logic
+`Django` `DRF` `Channels` `React 19` `JWT`
 
-`React` `Vite` `Django` `DRF` `SQLite` `JWT`
-
-<img src="assets/Vector_screen.png" width="100%" alt="Vector app screenshot"/>
+<img src="assets/Vector_screen.jpg" width="100%" alt="Vector — tournament page"/>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/Scalaris_logo.png" width="220" alt="Scalaris logo"/>
+<img src="assets/Scalaris_logo.png" width="72" alt="Scalaris logo"/>
 
-### [Scalaris — Live Activity Map](https://github.com/ttjelky/Scalaris)
+### [Scalaris — social activity map](https://github.com/ttjelky/Scalaris)
 
-A mobile-first platform with a live map for organizing street/backyard
-activities with friends nearby.
+A mobile-first map of people nearby who are up for something right now: meetups, runs with checkpoints, game zones and quests, all in real time.
 
-Built in **5 days** at a summer tech camp during the tournament final. Our team
-won **3rd place** at the All-Ukrainian team programming tournament with it. Since
-the camp I keep developing it on my own.
+🥉 3rd place at the final — built in 5 days.
 
-**My role:** team lead, full-stack development, UI/UX & brand design, business logic
+**My role:** team lead, ~50% of the code, design, logo and technical decisions
 
-`React` `Vite` `Django` `DRF` `Channels` `PostgreSQL/PostGIS` `Redis`
+`Django Channels` `PostGIS` `Redis` `React 19` `Leaflet`
 
-<img src="assets/Scalaris_screen.png" width="100%" alt="Scalaris app screenshot"/>
+<img src="assets/Scalaris_map.jpg" width="100%" alt="Scalaris — map with clusters"/>
 
 </td>
 </tr>
@@ -85,43 +86,53 @@ the camp I keep developing it on my own.
 
 <img src="https://raw.githubusercontent.com/ttjelky/Worldlog/main/frontend/public/worldlog-logo.png" width="160" alt="WorldLog logo"/>
 
-### [WorldLog — Minecraft World Passport](https://github.com/ttjelky/Worldlog) · *in development*
+### [WorldLog — a passport for a Minecraft world](https://github.com/ttjelky/Worldlog) · *in development*
 
-A Ukrainian-language app for documenting a Minecraft world: players, locations
-with coordinates and screenshot galleries, plans, and the world's history as a
-timeline. Includes a seed map powered by cubiomes compiled to WebAssembly.
+A shared journal for a game world: players, locations with coordinates, tasks and projects, a timeline in eras, a linked wiki and a D3 relationship graph, 9 biome themes. Open source.
 
-**My role:** product idea, lead developer (frontend & backend), UI design — with one collaborator
+**My role:** idea, ~90% of the code, design and identity, leading one teammate (team DiJital)
 
-`React` `Vite` `Material UI` `React Query` `Django` `DRF` `PostgreSQL` `WebAssembly`
+`Django` `DRF` `React 19` `MUI` `TanStack Query` `D3`
+
+<img src="assets/WorldLog_screen.jpg" width="100%" alt="WorldLog — world page"/>
 
 </td>
 </tr>
 </table>
 
+### Websites for local businesses
+
+| [BRITVA — barbershop](https://ttjelky.github.io/barbershop-landing/) | [glaze — nail studio](https://ttjelky.github.io/nail-studio-landing/) |
+|:-:|:-:|
+| <img src="assets/Britva_screen.jpg" alt="BRITVA website"/> | <img src="assets/Glaze_screen.jpg" alt="glaze website"/> |
+
+Concepts designed and built from scratch, no frameworks. Need a site for your business? [Let's talk](https://t.me/ttjelky).
+
 ---
 
-## Tech Stack
+## Tech stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript_(learning)-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Django Channels](https://img.shields.io/badge/Channels%20%2F%20WebSockets-092E20?style=flat-square&logo=django&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 <div align="center">
 
-📫 Let's connect — [Telegram](https://t.me/ttjelky) · [bezklinskiyalexey@gmail.com](mailto:bezklinskiyalexey@gmail.com) · [Portfolio](https://ttjelky.github.io/portfolio/)
+📫 [Portfolio](https://ttjelky.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/olexiy-bezklynskiy-694a243b5/) · [Telegram](https://t.me/ttjelky) · [bezklinskiyalexey@gmail.com](mailto:bezklinskiyalexey@gmail.com)
 
 </div>
